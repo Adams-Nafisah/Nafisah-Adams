@@ -10,4 +10,6 @@ to automate business operations efficiently. My commitment to continuous learnin
 Beyond academics, I'm deeply involved in volunteer work, including mentoring high school students and delivering IT workshops at Noni Hub IT Academy in Ghana.
 My leadership roles and community service have been recognized with several honors, including being named a Millennium Fellow and receiving the MasterCard Foundation Scholarship.
 
-Feel free to explore my projects and connect with me if you share similar interests in data science, automation, and community development!# Nafisah-Adams
+Feel free to explore my projects and connect with me if you share similar interests in data science, automation, and community development!
+LinkedIn:https://www.linkedin.com/in/adams-nafisah-aa35b1229/
+# Nafisah-Adams
