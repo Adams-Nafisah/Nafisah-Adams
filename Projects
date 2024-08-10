@@ -1,0 +1,21 @@
+Subscription Data Analysis Project
+
+As part of my work to help our company remain competitive in the crowded streaming market, I took on a critical project to analyze subscription data and provide insights into customer retention. With competitors like Netflix and Amazon Prime vying for the same users, our CEO was particularly concerned about our ability to retain customers.
+
+Objectives:
+Increase Customer Subscriptions: Understand the trends in sign-ups to identify opportunities for growth.
+Improve Retention Rates: Analyze customer behavior to enhance retention strategies.
+Key Questions Addressed:
+What are the trends in subscription sign-ups over time?
+What is the average duration of subscriptions before cancellation?
+What percentage of customers have subscribed for 5 months or more consecutively?
+Which month had the highest subscriber retention, and which had the lowest?
+Approach:
+Data Analysis: I used Excel to analyze the subscription data, focusing on key metrics such as sign-up trends, average subscription duration, and retention rates.
+Dashboard Creation: Developed an interactive dashboard to visualize the findings and make the data accessible to stakeholders.
+Glide App: Built a Glide app to allow real-time tracking of key metrics, enabling our team to monitor and respond to trends promptly.
+Outcomes:
+Provided actionable insights that informed our strategies to boost customer retention and subscription rates.
+Enabled the executive team to make data-driven decisions with the help of the dashboard and app.
+This project not only enhanced our understanding of customer behavior but also contributed to our ongoing efforts to stay competitive in a dynamic industry.
+link to the glide app:https://kpis-app-qrhm.glide.page 
